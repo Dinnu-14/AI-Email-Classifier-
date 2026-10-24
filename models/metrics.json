@@ -1,0 +1,102 @@
+{
+    "model_name": "Multinomial Naive Bayes (MultinomialNB)",
+    "vectorizer_name": "TF-IDF (Term Frequency - Inverse Document Frequency)",
+    "vocabulary_size": 1555,
+    "split_ratio": "80% Training, 20% Held-Out Testing (Stratified)",
+    "random_state": 42,
+    "total_samples": 150,
+    "train_samples": 120,
+    "test_samples": 30,
+    "test_accuracy": 70.0,
+    "classes": [
+        "Important",
+        "Personal",
+        "Promotions",
+        "Spam",
+        "Work"
+    ],
+    "confusion_matrix": [
+        [
+            4,
+            0,
+            0,
+            0,
+            2
+        ],
+        [
+            0,
+            6,
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            5,
+            1,
+            0
+        ],
+        [
+            1,
+            1,
+            2,
+            2,
+            0
+        ],
+        [
+            2,
+            0,
+            0,
+            0,
+            4
+        ]
+    ],
+    "classification_report": {
+        "Important": {
+            "precision": 0.5714285714285714,
+            "recall": 0.6666666666666666,
+            "f1-score": 0.6153846153846154,
+            "support": 6.0
+        },
+        "Personal": {
+            "precision": 0.8571428571428571,
+            "recall": 1.0,
+            "f1-score": 0.9230769230769231,
+            "support": 6.0
+        },
+        "Promotions": {
+            "precision": 0.7142857142857143,
+            "recall": 0.8333333333333334,
+            "f1-score": 0.7692307692307693,
+            "support": 6.0
+        },
+        "Spam": {
+            "precision": 0.6666666666666666,
+            "recall": 0.3333333333333333,
+            "f1-score": 0.4444444444444444,
+            "support": 6.0
+        },
+        "Work": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1-score": 0.6666666666666666,
+            "support": 6.0
+        },
+        "accuracy": 0.7,
+        "macro avg": {
+            "precision": 0.6952380952380952,
+            "recall": 0.7,
+            "f1-score": 0.6837606837606838,
+            "support": 30.0
+        },
+        "weighted avg": {
+            "precision": 0.6952380952380952,
+            "recall": 0.7,
+            "f1-score": 0.6837606837606838,
+            "support": 30.0
+        }
+    },
+    "trained_at": "2026-10-24 10:35:10",
+    "is_trained": true
+}

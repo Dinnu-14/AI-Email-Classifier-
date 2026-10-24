@@ -1,0 +1,151 @@
+email_text,category
+"Please review the updated Q3 project roadmap and share your feedback before tomorrow's team sync.",Work
+"Weekly sprint planning meeting is scheduled for Monday at 10:00 AM in Conference Room B.",Work
+"Attached is the latest financial audit spreadsheet for your department's review.",Work
+"Reminder: Submit your quarterly performance self-appraisal by this Friday 5 PM.",Work
+"The client presentation deck has been updated with the latest revenue projections.",Work
+"Can we reschedule our one-on-one meeting to Thursday afternoon?",Work
+"Action items from today's client sync: deploy bug fixes to staging and update API docs.",Work
+"Please approve the software development contract changes sent by legal.",Work
+"Standup notes: Backend API migration is 80% complete, frontend integration starts tomorrow.",Work
+"New task assigned: Implement unit tests for user authentication endpoints in Jira.",Work
+"Quarterly budget meeting with department heads will take place via Zoom this Wednesday.",Work
+"Please submit your timesheet for this pay period before 6 PM today.",Work
+"Code review request: PR #142 refactoring data pipeline is ready for your feedback.",Work
+"Production release checklist for version 2.4 is attached. Please confirm testing sign-off.",Work
+"Follow up on client deliverables: Final design assets are due next Tuesday.",Work
+"Team update: Our office will be closed on Friday for the annual company hackathon.",Work
+"Agenda for tomorrow's executive leadership briefing on product milestones.",Work
+"Please share your slides for the upcoming all-hands presentation.",Work
+"The marketing and engineering cross-functional sync has been moved to 3 PM.",Work
+"Server deployment scheduled for Saturday midnight. Expect 15 minutes of scheduled downtime.",Work
+"Please review the vendor proposal for cloud infrastructure optimization.",Work
+"HR update: New workplace policy guidelines have been posted to the intranet.",Work
+"Urgent action required on Jira ticket PROJ-882: database index optimization.",Work
+"Minutes of meeting: Discussed Q4 product launch timeline and resource allocation.",Work
+"Please provide the updated status of the client onboarding checklist.",Work
+"Reminder: Annual compliance and security awareness training deadline is next week.",Work
+"Here is the summary of feedback from our beta user testing session.",Work
+"Project milestone achieved: Alpha release successfully passed internal QA.",Work
+"Requesting feedback on the proposed architecture for the microservices migration.",Work
+"Team lunch to celebrate the successful product rollout this Friday at 1 PM.",Work
+"Hey! Are we still on for dinner this Saturday night at the Italian place?",Personal
+"Happy birthday Grandma! Wishing you lots of love, health, and happiness on your special day.",Personal
+"Can you send me grandma's secret apple pie recipe when you get a chance?",Personal
+"Had an amazing time catching up with you yesterday! Let's do it again soon.",Personal
+"Just checking in to see how you are feeling after your doctor appointment.",Personal
+"Photos from our family weekend camping trip are finally uploaded to the shared album.",Personal
+"Hey buddy, do you want to play tennis or grab coffee this Sunday morning?",Personal
+"Congratulations on your new house! So excited to visit you guys next month.",Personal
+"Mom wanted me to remind you to bring the board games for Sunday dinner.",Personal
+"Happy anniversary! Wishing you both another year of joy and togetherness.",Personal
+"Hey, are you free for a quick phone call later tonight? Miss chatting with you.",Personal
+"Thanks for lending me your car over the weekend, it was a lifesaver!",Personal
+"We are organizing a surprise birthday party for Sarah next Friday. Can you make it?",Personal
+"Hope you had a safe flight back home! Let us know once you reach.",Personal
+"Hey cousin, let's plan a reunion trip during the upcoming winter break.",Personal
+"Sending warm hugs and condolences to you and your family during this difficult time.",Personal
+"Let's catch up over coffee this afternoon if you are free around downtown.",Personal
+"Just wanted to say thank you for being such a supportive friend always.",Personal
+"Can't wait to see you at the wedding this weekend! Safe travels getting here.",Personal
+"Hey, did you watch the latest episode of that sci-fi series we were talking about?",Personal
+"Good luck on your driving test tomorrow! You're going to do great.",Personal
+"Hey dad, just called to wish you a happy Father's Day and say I love you.",Personal
+"Left my jacket at your apartment yesterday, can I pick it up sometime this week?",Personal
+"How is the new puppy doing? Send some pictures when you get some free time!",Personal
+"Thinking of you today! Hope everything is going well with your new job.",Personal
+"Hey, let's grab brunch tomorrow morning at that new bakery near your house.",Personal
+"Thank you for the wonderful birthday gift! It really made my day special.",Personal
+"Just landed in Chicago for vacation. Hope everyone back home is doing well!",Personal
+"Hey sis, don't forget to call mom today to wish her a happy birthday.",Personal
+"Are you going to the high school reunion next month? We should go together.",Personal
+"Mega Summer Sale! Get up to 50% off on all footwear and accessories this weekend only.",Promotions
+"Exclusive offer for our VIP members: Use coupon code SAVE20 for an extra 20% discount.",Promotions
+"Limited time deal: Buy 1 get 1 free on all organic skincare products today.",Promotions
+"Flash sale starts now! Grab top electronics at unbeatable prices before stocks run out.",Promotions
+"Your favorite items are back in stock! Enjoy free shipping on orders over $50.",Promotions
+"Special festival discount: Save big on home appliances, televisions, and kitchenware.",Promotions
+"Don't miss out! 30% off your next meal order with promo code TASTY30.",Promotions
+"Last chance to save! End of season clearance sale ends midnight tonight.",Promotions
+"Exclusive weekend pass: 25% discount on all theme park and concert tickets.",Promotions
+"Upgrade to Premium annual plan today and get 3 extra months completely free!",Promotions
+"New collection alert! Discover trendy autumn outfits with special introductory discounts.",Promotions
+"Earn 2x reward points on all purchases made using your store loyalty card this week.",Promotions
+"Black Friday early access deals are live now for registered shoppers!",Promotions
+"Book your dream vacation package now and save up to $300 on international flights.",Promotions
+"Your cart misses you! Complete your order today and receive an extra 10% discount.",Promotions
+"Cyber Monday sale: Incredible price cuts on laptops, headphones, and gaming gear.",Promotions
+"Seasonal clearance: Up to 70% off selected designer sunglasses and watches.",Promotions
+"Unlock 15% off your first subscription box order with code WELCOME15.",Promotions
+"Free gift with every purchase of beauty products above $40 this weekend.",Promotions
+"Spring savings event! Refresh your home decor with 20% off all furniture.",Promotions
+"Limited edition sneakers now available at special launch prices. Shop today!",Promotions
+"Refer a friend today and you both get a $25 store credit voucher on your next order.",Promotions
+"Hurry! Final hours of our anniversary sale with doorbuster discounts storewide.",Promotions
+"Get ready for the holidays with exclusive early bird discounts on gift baskets.",Promotions
+"Enjoy complimentary dessert with any main course order using coupon SWEETDEAL.",Promotions
+"Mid-season flash discount: Flat $20 off on grocery delivery orders over $80.",Promotions
+"Special student discount: Show your university ID and save 15% on tech accessories.",Promotions
+"Member appreciation week: Extra reward points and free delivery on all purchases.",Promotions
+"Huge savings on winter jackets, boots, and thermal wear! Shop the winter sale.",Promotions
+"Treat yourself this weekend! 40% discount on spa treatments and massage packages.",Promotions
+"CONGRATULATIONS! You have been selected as the lucky winner of a $1,000,000 lottery cash prize! Click here to claim.",Spam
+"URGENT NOTICE: Your bank account will be terminated within 24 hours unless you verify your identity here.",Spam
+"Dear beneficiary, I am barrister Johnson representing a deceased estate with $15.5 Million waiting for your claim.",Spam
+"Claim your free $500 Amazon gift card now! Complete this quick 2-minute survey to receive code.",Spam
+"Guaranteed weight loss miracle pill! Melt 20 pounds in 7 days without diet or exercise.",Spam
+"Work from home and earn $5,000 weekly with no experience needed! Start immediately.",Spam
+"You have 1 pending Bitcoin transfer of 1.45 BTC! Confirm your wallet address now.",Spam
+"Hot singles in your local neighborhood want to chat with you right now! Click here.",Spam
+"Confidential business proposal: Transfer $25M offshore and keep 30% commission.",Spam
+"You won a brand new iPhone 15 Pro Max! Just pay $1 for shipping to receive your prize.",Spam
+"Increase your website ranking to #1 on Google overnight! 100% guaranteed organic backlinks.",Spam
+"Urgent! Your computer has been infected with 5 viruses. Call Microsoft tech support toll-free now.",Spam
+"Exclusive secret investment loophole: Turn $250 into $10,000 in just 48 hours guaranteed!",Spam
+"Final notice: Unclaimed lottery jackpot ticket #94821 is registered to your email.",Spam
+"Get approved for a $50,000 unsecured personal loan regardless of bad credit history instantly.",Spam
+"Refill cheap prescription medications online without doctor consultation. 80% discount.",Spam
+"You have received an encrypted confidential inheritance document. Download the attachment.",Spam
+"Immediate wire transfer alert: $850,000 is ready for release. Reply with your passport copy.",Spam
+"Congratulations! Your email address was chosen in the international internet sweepstakes.",Spam
+"Eliminate your credit card debt completely using this secret government program!",Spam
+"Miracle crypto trading bot generates $1,200 passive income every single day!",Spam
+"Exclusive VIP casino bonus: Deposit $10 and play with $1,000 instantly!",Spam
+"Act now! Claim your free timeshare vacation in the Bahamas before it expires.",Spam
+"Your PayPal account has suspicious activity. Download our verification software to unlock.",Spam
+"Make six figures monthly working 15 minutes a day from home. Click to register now.",Spam
+"You have been chosen for the international gold bullion giveaway! Reply with phone number.",Spam
+"Instant payout notification: Western Union MTCN number waiting for your confirmation.",Spam
+"Unlock secret adult dating profiles in your city tonight for free. Click link.",Spam
+"Reclaim lost funds from fraudulent brokers! Our recovery agency guarantees 100% refund.",Spam
+"Limited opportunity: Purchase pre-mined cryptocurrency tokens before public exchange listing.",Spam
+"URGENT: Security Alert - Suspicious login attempt detected from an unrecognized IP address in Germany.",Important
+"Interview Invitation: Data Science Intern position at Tech Innovations Inc - Confirm your availability.",Important
+"Action Required: Your password expires in 3 days. Please update your account credentials.",Important
+"Critical: Final deadline for university semester tuition fee payment is October 30.",Important
+"Two-factor authentication code: 849201. Do not share this OTP with anyone.",Important
+"Official notification: Your visa application status has been updated. Check embassy portal.",Important
+"Urgent medical test results are ready for review on your patient healthcare portal.",Important
+"Action required: Complete mandatory tax declaration form W-2 by end of this week.",Important
+"Critical server outage notification: Primary database replica degraded. Operations team alerted.",Important
+"Your flight UA 452 schedule has changed. Departure delayed by 2 hours due to weather.",Important
+"Interview Confirmation: Second round technical interview with Engineering Director on Thursday.",Important
+"Bank Account Alert: Large transaction of $2,450.00 charged to your credit card. Confirm if legitimate.",Important
+"Urgent: Final call for submissions for the International AI Conference research papers.",Important
+"Your driver's license renewal application requires identity verification within 10 days.",Important
+"Emergency contact update required for your student academic profile before semester start.",Important
+"Critical security patch required for your corporate laptop. Restart to apply update.",Important
+"Job Offer Letter: Senior Machine Learning Engineer at Vertex AI - Please sign and return.",Important
+"Immediate action required: Wire transfer rejected due to invalid routing information.",Important
+"Notice of legal summons: Electronic delivery confirmation required for case #49281.",Important
+"Account suspension warning: Verify your billing information to maintain continuous cloud hosting.",Important
+"Hospital appointment reminder: Dr. Smith consultation tomorrow at 9:00 AM. Fasting required.",Important
+"Urgent: Your housing lease agreement renewal contract must be signed before month end.",Important
+"Security Notice: Unusual API key usage spike detected on your cloud infrastructure.",Important
+"Final examination schedule and hall ticket download link for Autumn 2026.",Important
+"Emergency weather warning: Severe flash flood warning in effect for your county.",Important
+"Payroll alert: Direct deposit banking details update required prior to monthly processing.",Important
+"Offer of admission: Master of Science in Artificial Intelligence program acceptance letter.",Important
+"Urgent notice: Scheduled maintenance of medical portal services this Sunday.",Important
+"Security verification: New device linked to your digital banking profile.",Important
+"Action required: Submit verified internship completion certificate to department office.",Important
